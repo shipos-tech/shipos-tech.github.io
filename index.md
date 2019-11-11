@@ -118,6 +118,21 @@ title: Home
 				software.</p>
 			</div>
 		</section>
+		<section class="major">
+			<div class="content">
+				<h3>Architecture insight</h3>
+				<p>These set of architecture drawings will help you gain an insight into how ShipOS is structured.</p>
+				<p><img src="assets/images/architecture1.png" alt="" /></p><hr />
+				<p><img src="assets/images/architecture2.png" alt="" /></p><hr />
+				<p><img src="assets/images/architecture3.png" alt="" /></p><hr />
+				<p><img src="assets/images/architecture4.png" alt="" /></p><hr />
+				<p><img src="assets/images/architecture5.png" alt="" /></p><hr />
+				<p><img src="assets/images/architecture6.png" alt="" /></p><hr />
+				<p><img src="assets/images/architecture7.png" alt="" /></p><hr />
+				<p><img src="assets/images/architecture8.png" alt="" /></p><hr />
+				<p><img src="assets/images/architecture9.png" alt="" /></p>
+			</div>
+		</section>
 		<section class="special">
 			<ul class="icons labeled">
 				<li><span class="icon fa-desktop"><span class="label"><a href="https://www.youtube.com/watch?v=9cZXtmnMSRI">Architecture video</a></span></span></li>
