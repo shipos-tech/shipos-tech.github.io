@@ -64,7 +64,7 @@ title: Home
 					<li>Privacy: Your data is your own - data-owners should consent to usage and be able to see who can see their data</li>
 					<li>Containment: "Walled garden" principle - control allocation of resources to avoid noisy neighbors and (Quotas)</li>
 					<li>Technology: Built on a modern software and hardware stack</li>
-					<li>Simplicity: Limit the surface area to create a predictable platform (Linux, Docker, Kubernetes - no VMs and Windows Servers)</li>
+					<li>Simplicity: Limit the surface area to create a predictable platform (Linux, Docker, Kubernetes - no VMs or Windows Servers)</li>
 					<li>Connectivity: Connectivity is scarce and costly - QoS and prioritization needs to be on a ShipOS level</li>
 					<li>Usability: Should be easy to use; think mobile app-stores for purchasing apps and capabilities</li>
 				</ol>
