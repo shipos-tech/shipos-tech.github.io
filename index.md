@@ -118,20 +118,20 @@ title: Home
 				software.</p>
 			</div>
 		</section>
-		<section class="major">
+		<section class="spotlight2">
 			<div class="content">
 				<h3>Architecture insight</h3>
 				<p>These set of architecture drawings will help you gain an insight into how ShipOS is structured.</p>
 				<center>
-				<div class="image"><img src="assets/images/architecture1.png" alt="" /></div><hr />
-				<div class="image"><img src="assets/images/architecture2.png" alt="" /></div><hr />
-				<div class="image"><img src="assets/images/architecture3.png" alt="" /></div><hr />
-				<div class="image"><img src="assets/images/architecture4.png" alt="" /></div><hr />
-				<div class="image"><img src="assets/images/architecture5.png" alt="" /></div><hr />
-				<div class="image"><img src="assets/images/architecture6.png" alt="" /></div><hr />
-				<div class="image"><img src="assets/images/architecture7.png" alt="" /></div><hr />
-				<div class="image"><img src="assets/images/architecture8.png" alt="" /></div><hr />
-				<div class="image"><img src="assets/images/architecture9.png" alt="" /></div>
+				<p><div class="image"><img src="assets/images/architecture1.png" alt="" /></div></p>
+				<p><div class="image"><img src="assets/images/architecture2.png" alt="" /></div></p>
+				<p><div class="image"><img src="assets/images/architecture3.png" alt="" /></div></p>
+				<p><div class="image"><img src="assets/images/architecture4.png" alt="" /></div></p>
+				<p><div class="image"><img src="assets/images/architecture5.png" alt="" /></div></p>
+				<p><div class="image"><img src="assets/images/architecture6.png" alt="" /></div></p>
+				<p><div class="image"><img src="assets/images/architecture7.png" alt="" /></div></p>
+				<p><div class="image"><img src="assets/images/architecture8.png" alt="" /></div></p>
+				<p><div class="image"><img src="assets/images/architecture9.png" alt="" /></div></p>
 				</center>
 			</div>
 		</section>
