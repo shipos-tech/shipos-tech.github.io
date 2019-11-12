@@ -64,7 +64,7 @@ title: Home
 					<li>Privacy: Your data is your own - data-owners should consent to usage and be able to see who can see their data</li>
 					<li>Containment: "Walled garden" principle - control allocation of resources to avoid noisy neighbors and (Quotas)</li>
 					<li>Technology: Built on a modern software and hardware stack</li>
-					<li>Simplicity: Limit the surface area to create a predictable platform (Linux, Docker, Kubernetes - no VMs and Windows)</li>
+					<li>Simplicity: Limit the surface area to create a predictable platform (Linux, Docker, Kubernetes - no VMs and Windows Servers)</li>
 					<li>Connectivity: Connectivity is scarce and costly - QoS and prioritization needs to be on a ShipOS level</li>
 					<li>Usability: Should be easy to use; think mobile app-stores for purchasing apps and capabilities</li>
 				</ol>
@@ -76,7 +76,7 @@ title: Home
 			<div class="content">
 				<h3>Event-Driven Architecture</h3>
 				<p>A usual morning in the Peterson family. Emma is screaming
-				at his little brother Johnny after being pulled in the hair by
+				at her little brother Johnny after being pulled in the hair by
 				the four year old. Dad is mitigating the ensuing fight. Mom is
 				readying the lunch box for all three kids. Two kids dressed,
 				one to go. Johnny needs to go, Dad undresses him and helps him
@@ -108,10 +108,12 @@ title: Home
 				smaller pieces that are event-driven. It makes your software
 				leaner, agile and responsive to real-time events. This has
 				made it possible to create complex software solutions in
-				record time. Wilhelmsen's Smart Rope solution and their
-				Digiboiler software was created in just a few weeks weeks.</p>
+				record time. Quick prototypes, fail fast and learn quicly
+				with short iteration cycles. Wilhelmsen's Smart Rope solution
+				and their Digiboiler software was created in just a few
+				weeks.</p>
 				<p>It is far easier to manage EDA software. Smaller pieces
-				makes for easier debugging and faster development cycles.
+				makes for easier troubleshooting and faster development.
 				Pieces are more loosly coupled. Updates are easier and
 				negative consequences from errors are more contained. All
 				these benefits lower the cost of creating and managing the
