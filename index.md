@@ -78,7 +78,7 @@ title: Home
 			<div class="image"><img src="assets/images/pic04.jpg" alt="" /></div>
 			<div class="content">
 				<h3>Event-Driven Architecture</h3>
-				<p>A usual morning in the Peterson family. Emma is screaming
+				<p><i>A usual morning in the Peterson family. Emma is screaming
 				at her little brother Johnny after being pulled in the hair by
 				the four year old. Dad is mitigating the ensuing fight. Mom is
 				readying the lunch box for all three kids. Two kids dressed,
@@ -92,7 +92,7 @@ title: Home
 				door, locks the door, into the car and to the kindergarden
 				first. Then to Emma's school unless the traffic is heavy, then
 				to Chrissie's school first. No day is the same. Lots of
-				variables and lots of real-time events.</p>
+				variables and lots of real-time events.</i></p>
 				<p>It would be next to impossible to have a set plan or
 				process for a Peterson morning. An all-encompassing
 				hierarcical and centrally coordinated command structure would
