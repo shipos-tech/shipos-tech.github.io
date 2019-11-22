@@ -38,7 +38,7 @@ title: Home
 			</div>
 		</section>
 		<section class="spotlight2">
-		<iframe width="1120" height="630" src="https://www.youtube.com/embed/0m6fTJBdyAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<iframe width="1120" height="630" src="https://www.youtube.com/embed/0m6fTJBdyAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</section>
 		<section class="spotlight">
 			<div class="image"><img src="assets/images/pic02.jpg" alt="" /></div>
@@ -145,6 +145,7 @@ title: Home
 				<li><span class="icon fa-desktop"><span class="label"><a href="https://www.youtube.com/watch?v=9cZXtmnMSRI">Architecture video</a></span></span></li>
 				<li><span class="icon fa-code"><span class="label"><a href="https://github.com/shipos-foundation">ShipOS code</a></span></span></li>
 				<li><span class="icon fa-refresh"><span class="label"><a href="https://dolittle.io/getting-started/quickstart/">Dolittle EDA quickstart</a></span></span></li>
+				<li><span class="icon fa-at"><span class="label"><a href="mailto:geir@shipos.org">Contact</a></span></span></li>
 			</ul>
 		</section>
 	</div>
