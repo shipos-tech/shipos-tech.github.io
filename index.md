@@ -37,6 +37,9 @@ title: Home
 				relevant data can be efficiently realized.</p>
 			</div>
 		</section>
+		<section class="spotlight2">
+		<iframe width="1120" height="630" src="https://www.youtube.com/embed/0m6fTJBdyAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</section>
 		<section class="spotlight">
 			<div class="image"><img src="assets/images/pic02.jpg" alt="" /></div>
 			<div class="content">
