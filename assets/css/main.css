@@ -2862,7 +2862,7 @@
 			}
 
 			.spotlight2:nth-child(2n) .content {
-				text-align: right;
+				text-align: center;
 			}
 
 	@media screen and (max-width: 736px) and (orientation: landscape) {

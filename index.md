@@ -55,26 +55,6 @@ title: Home
 			</div>
 		</section>
 		<section class="spotlight">
-			<div class="image"><img src="assets/images/pic03.jpg" alt="" /></div>
-			<div class="content">
-				<h3>Architecture</h3>
-				<p>ShipOS is Open Source Software released under the MIT license. The ten core architecture principle of ShipOS are:
-				<ol>
-					<li>Standardization: Clear standardization of all components</li>
-					<li>Security: Secure by default - zero-trust environment</li>
-					<li>Stability: Work toward Telco software stability - at sea, IT is notoriously hard to fix</li>
-					<li>Development: Avoid design by committee through clear responsibilities and core principles</li>
-					<li>Privacy: Your data is your own - data-owners should consent to usage and be able to see who can see their data</li>
-					<li>Containment: "Walled garden" principle - control allocation of resources to avoid noisy neighbors and (Quotas)</li>
-					<li>Technology: Built on a modern software and hardware stack</li>
-					<li>Simplicity: Limit the surface area to create a predictable platform (Linux, Docker, Kubernetes - no VMs or Windows Servers)</li>
-					<li>Connectivity: Connectivity is scarce and costly - QoS and prioritization needs to be on a ShipOS level</li>
-					<li>Usability: Should be easy to use; think mobile app-stores for purchasing apps and capabilities</li>
-				</ol>
-				At the core of ShipOS is the concept of Event-Driven Architecture (EDA).</p>
-			</div>
-		</section>
-		<section class="spotlight">
 			<div class="image"><img src="assets/images/pic04.jpg" alt="" /></div>
 			<div class="content">
 				<h3>Event-Driven Architecture</h3>
@@ -121,6 +101,26 @@ title: Home
 				negative consequences from errors are more contained. All
 				these benefits lower the cost of creating and managing the
 				software.</p>
+			</div>
+		</section>
+		<section class="spotlight">
+			<div class="image"><img src="assets/images/pic03.jpg" alt="" /></div>
+			<div class="content">
+				<h3>Architecture principles of ShipOS</h3>
+				<p>ShipOS is Open Source Software released under the MIT license. The ten core architecture principle of ShipOS are:
+				<ol>
+					<li>Standardization: Clear standardization of all components</li>
+					<li>Security: Secure by default - zero-trust environment</li>
+					<li>Stability: Work toward Telco software stability - at sea, IT is notoriously hard to fix</li>
+					<li>Development: Avoid design by committee through clear responsibilities and core principles</li>
+					<li>Privacy: Your data is your own - data-owners should consent to usage and be able to see who can see their data</li>
+					<li>Containment: "Walled garden" principle - control allocation of resources to avoid noisy neighbors and (Quotas)</li>
+					<li>Technology: Built on a modern software and hardware stack</li>
+					<li>Simplicity: Limit the surface area to create a predictable platform (Linux, Docker, Kubernetes - no VMs or Windows Servers)</li>
+					<li>Connectivity: Connectivity is scarce and costly - QoS and prioritization needs to be on a ShipOS level</li>
+					<li>Usability: Should be easy to use; think mobile app-stores for purchasing apps and capabilities</li>
+				</ol>
+				At the core of ShipOS is the concept of Event-Driven Architecture (EDA).</p>
 			</div>
 		</section>
 		<section class="spotlight2">
