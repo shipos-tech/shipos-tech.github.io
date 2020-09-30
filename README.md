@@ -1,2 +1,2 @@
 # shipos-tech.github.io
-shipos.tech website
+This is shipos.tech website.
